@@ -9,6 +9,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=papilo-cloud&style=flat-square&color=blue"></img>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=papilo-cloud)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats:
 
